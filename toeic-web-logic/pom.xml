@@ -13,7 +13,7 @@
     <artifactId>toeic-web-logic</artifactId>
 
     <properties>
-        <kotlin.version>1.3.71</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
     </properties>
 
     <dependencies>
